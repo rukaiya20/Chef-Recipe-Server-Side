@@ -19,14 +19,13 @@ app.get('/chef', (req, res) => {
 app.get('/recipe', (req, res) => {
   res.send(Recipe)
 })
-// ...............>
 
 app.get('/chef/:id', (req, res) => {
   const id = req.params.id;
   const selectedChef = Chef.find(n => n.id === id);
   res.send(selectedChef);
 })
-
+// ...............>
 app.listen(port, () => {
   console.log(`Spice-Journey-Server in running on port ${port}`)
 })
