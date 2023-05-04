@@ -1,0 +1,150 @@
+[
+      {
+        "id": 1,
+        "image":"https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg",
+        "name": "Chicken Biryani",
+        "ingredients":[
+          "2 cups of basmati rice",
+          "1 lb of chicken, cut into pieces",
+          "1 onion, sliced",
+          "2-3 cloves of garlic, minced",
+          "1 inch piece of ginger, minced",
+          "2-3 green chilies, sliced"
+        ],
+        "instructions":"Marinate chicken with yogurt, spices, and lemon juice for at least 30 minutes.In a pot, cook sliced onions until golden brown. Remove and set aside.In the same pot, add the marinated chicken and cook until browned. Remove and set aside.Add rice to the pot and cook for a few minutes until lightly toasted.Add water or chicken broth and bring to a boil. Reduce heat and let simmer until the water is absorbed and the rice is cooked.Layer cooked chicken and fried onions on top of the rice.Cover the pot and cook on low heat for 10-15 minutes until the chicken is fully cooked and the flavors are absorbed.Garnish with fresh cilantro, mint, and fried cashews or raisins before serving.",
+        "rating":4.5
+      },
+      {
+        "id": 2,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg/1200px-A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "4 pieces of ilish fish",
+          "1 onion, sliced",
+          "1 tbsp of mustard oil",
+          "2 tbsp of mustard seeds",
+          "4-5 green chilies, sliced",
+          "1 tbsp of turmeric powder",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "Clean the fish and marinate it with salt and turmeric powder.",
+          "Grind the mustard seeds with 2-3 green chilies and a pinch of salt to make a paste.",
+          "Heat the mustard oil in a pan over medium heat. Add the sliced onions and fry until golden brown.",
+          "Add the fish to the pan and fry for 2-3 minutes on each side until the fish is slightly browned.",
+          "Add the mustard paste to the pan and mix well. Add 1-2 cups of water and simmer for 5-10 minutes until the fish is cooked and the sauce has thickened.",
+          "Add the remaining green chilies to the pan and serve hot with steamed rice."
+        ],
+        "rating":4.8
+      },
+      {
+        "id": 3,
+        "image":"https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
+        "name": "Beef Bhuna",
+        "ingredients": [
+          "1 lb of beef, cut into cubes",
+          "1 onion, chopped",
+          "2-3 cloves of garlic, minced",
+          "1 inch piece of ginger, minced",
+          "2-3 green chilies, sliced",
+          "1 tsp of cumin powder"
+        ],
+        "instructions": [
+          "Heat the oil or ghee in a pan over medium heat. Add the chopped onions and fry until golden brown.",
+          "Add the minced garlic, ginger, and green chilies to the pan and fry for another minute.",
+          "Add the beef cubes to the pan and fry for 5-7 minutes until they are browned on all sides.",
+          "Add the cumin powder, coriander powder, garam masala powder, turmeric powder, red chili powder, and salt to the pan and fry for another minute.",
+          "Add 2 cups of water to the pan and bring it to a boil. Lower the heat, cover the pan, and simmer for 45-60 minutes until the beef is tender.",
+          "Garnish with chopped cilantro leaves and serve hot with rice."
+        ],
+        "rating":4.7
+      },
+        {  "id":4,
+        "image":"https://www.whiskaffair.com/wp-content/uploads/2021/10/Andhra-Chicken-Curry-2-3.jpg",
+          "name": "Chicken Curry",
+          "ingredients": [
+            "1 lb. chicken, cut into small pieces",
+            "2 onions, finely chopped",
+            "2 tomatoes, finely chopped",
+            "2 tbsp. ginger paste",
+            "2 tbsp. garlic paste",
+            "1 tbsp. red chili powder",
+            "1 tsp. turmeric powder",
+            "1 tsp. cumin powder",
+            "1 tsp. coriander powder",
+            "1 tsp. garam masala powder",
+            "Salt, to taste",
+            "Oil, as needed"
+          ],
+          "instructions": [
+            "Heat oil in a pan over medium heat.",
+            "Add onions and cook until golden brown.",
+            "Add chicken and cook until browned.",
+            "Add ginger and garlic paste and cook for 1-2 minutes.",
+            "Add tomatoes, chili powder, turmeric powder, cumin powder, coriander powder, and salt.",
+            "Cook until the tomatoes are soft and the chicken is tender.",
+            "Add garam masala powder and cook for another minute.",
+            "Serve hot with rice or bread."
+          ],
+          "rating":4.5
+        },
+        {  "id":5,
+        "image":"https://kfoods.com/images1/newrecipeicon/bombay-prawns-biryani_14607.jpg",
+          "name": "Shrimp Biryani",
+          "ingredients": [
+            "1 lb. shrimp, peeled and deveined",
+            "2 cups basmati rice",
+            "1 onion, thinly sliced",
+            "2 tomatoes, finely chopped",
+            "2 tbsp. ginger paste",
+            "2 tbsp. garlic paste"
+          ],
+          "instructions": [
+            "Soak rice in water for 30 minutes.",
+            "Heat oil in a large pan over medium heat.",
+            "Add onions and cook until golden brown.",
+            "Add shrimp and cook until pink.",
+            "Add ginger and garlic paste and cook for 1-2 minutes.",
+            "Add tomatoes, chili powder, turmeric powder, cumin powder, coriander powder, and salt.",
+            "Cook until the tomatoes are soft.",
+            "Drain the rice and add it to the pan.",
+            "Stir the rice gently to coat it with the spices.",
+            "Add enough water to cover the rice.",
+            "Bring to a boil, then reduce heat to low and cover the pan.",
+            "Cook for about 20-25 minutes or until the rice is tender and the water has been absorbed.",
+            "Remove from heat and let it rest for 5-10 minutes.",
+            "Garnish with chopped cilantro and serve hot."
+          ],
+          "rating":4.9
+        },
+        { "id": 6,
+          "name": "Fuchka",
+          "image":"https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2021/11/05/fuchka3_1.jpg",
+          "ingredients": [
+            "1 cup all-purpose flour",
+            "1/4 cup semolina",
+            "1/4 tsp. baking powder",
+            "1/2 tsp. salt",
+            "1/4 cup water",
+            "1/4 cup tamarind paste"
+          ],
+          "instructions": [
+            "In a large bowl, mix together flour, semolina, baking powder, and salt.",
+            "Gradually add water and knead until the dough is smooth and elastic.",
+            "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+            "Divide the dough into small balls and roll each ball into a thin, round disc.",
+            "Heat oil in a deep frying pan over medium-high heat.",
+            "Fry the discs until they are crispy and golden brown.",
+            "Drain the fuchkas on paper towels to remove excess oil.",
+            "Mix together tamarind paste, onion, potatoes, tomatoes, cilantro, cumin powder, red chili powder, and salt in a bowl.",
+            "Poke a small hole in each fuchka and stuff it with the filling mixture.",
+            "Serve immediately."
+          ],
+          "rating":4.8
+          }
+        ]
+        
+  
+        
+        
+      
